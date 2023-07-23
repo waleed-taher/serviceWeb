@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <section>
       <Wrapper>
-        <div className="flex items-center justify-around gap-60">
+        <div className="flex items-center justify-around mb-12 gap-60">
           {/* div for content */}
           <div className="flex flex-col gap-y-8">
             <div className="flex flex-col gap-y-1">
@@ -26,21 +26,21 @@ const Hero = () => {
             </div>
             <div className="flex gap-12 ">
               <span className="flex items-center gap-3">
-                <TiTick size={18} className="bg-[#00FFFF] rounded-full" />
+                <TiTick size={18} className="bg-[#24C4DA] rounded-full" />
                 <span className="text-lg text-white">Unlimited Web Pages</span>
               </span>
               <span className="flex items-center gap-3">
-                <TiTick size={18} className="bg-[#00FFFF] rounded-full" />
+                <TiTick size={18} className="bg-[#24C4DA] rounded-full" />
                 <span className="text-lg text-white">Free Logo Design</span>
               </span>
             </div>
             <div className="flex gap-12 ">
               <span className="flex items-center gap-3">
-                <TiTick size={18} className="bg-[#00FFFF] rounded-full" />
+                <TiTick size={18} className="bg-[#24C4DA] rounded-full" />
                 <span className="text-lg text-white">Unlimited Web Pages</span>
               </span>
               <span className="flex items-center gap-3">
-                <TiTick size={18} className="bg-[#00FFFF] rounded-full" />
+                <TiTick size={18} className="bg-[#24C4DA] rounded-full" />
                 <span className="text-lg text-white">Money Back Guarantee</span>
               </span>
             </div>

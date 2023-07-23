@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
         </div>
         <div>
-          <p className="capitalize text-[#00FFFF] ml-12 text-lg mb-5">
+          <p className="capitalize text-[#24C4DA] ml-12 text-lg mb-5">
             Copyright &copy; The Designer Agency All Rights Reserved{" "}
           </p>
           <p className="pb-8 ml-12 text-sm text-white">
