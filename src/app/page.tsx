@@ -8,6 +8,7 @@ import Pricing from "./components/Pricing";
 import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
+import Area from "./components/Area";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Portfolio />
       <Testimonials />
       <Contact />
+      <Area />
       <Footer />
     </main>
   );
